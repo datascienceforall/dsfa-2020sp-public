@@ -2,7 +2,7 @@
 
 These are the course materials for [Data Science For All][dsfa-web],
 taught in Spring 2020 at Cornell University and cross-listed as 
-CS 1380, ORIE 1380, and STSCI 1380.  The instructors were
+CS 1380, ORIE 1380, and STSCI 1380.  The instructors are
 [Jeremy Entner][jfe] and [David Williamson][dpw].
 
 ## Installation
